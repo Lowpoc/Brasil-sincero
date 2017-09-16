@@ -1,0 +1,10 @@
+/home/Marcus/Projetos/CSharp/BrasilSincero/bin/Debug/netcoreapp2.0/BrasilSincero.deps.json
+/home/Marcus/Projetos/CSharp/BrasilSincero/bin/Debug/netcoreapp2.0/BrasilSincero.runtimeconfig.json
+/home/Marcus/Projetos/CSharp/BrasilSincero/bin/Debug/netcoreapp2.0/BrasilSincero.runtimeconfig.dev.json
+/home/Marcus/Projetos/CSharp/BrasilSincero/bin/Debug/netcoreapp2.0/BrasilSincero.dll
+/home/Marcus/Projetos/CSharp/BrasilSincero/bin/Debug/netcoreapp2.0/BrasilSincero.pdb
+/home/Marcus/Projetos/CSharp/BrasilSincero/obj/Debug/netcoreapp2.0/BrasilSincero.csproj.CoreCompileInputs.cache
+/home/Marcus/Projetos/CSharp/BrasilSincero/obj/Debug/netcoreapp2.0/BrasilSincero.AssemblyInfoInputs.cache
+/home/Marcus/Projetos/CSharp/BrasilSincero/obj/Debug/netcoreapp2.0/BrasilSincero.AssemblyInfo.cs
+/home/Marcus/Projetos/CSharp/BrasilSincero/obj/Debug/netcoreapp2.0/BrasilSincero.dll
+/home/Marcus/Projetos/CSharp/BrasilSincero/obj/Debug/netcoreapp2.0/BrasilSincero.pdb
